@@ -2,6 +2,10 @@
 
 # 🌄 Natty or Not: Grand Canyon Cinemático
 
+
+https://github.com/user-attachments/assets/73b09278-03f2-4cc1-a043-0b19c6a8cb02
+
+
 ## 📒 Descrição
 Este projeto explora o uso de Inteligência Artificial Generativa para criar paisagens realistas e cinematográficas. A imagem gerada representa o Grand Canyon ao entardecer, com uma vista clara e atmosfera envolvente, demonstrando o potencial da IA na criação de conteúdo visual impressionante.
 
